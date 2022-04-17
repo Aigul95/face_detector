@@ -1,0 +1,15 @@
+*.avi
+*.mp4
+*.mkv
+venv
+*.pb
+*.h5
+*.pt
+openface.nn4.small2.v1
+*.zip
+*.pth
+*.dat
+*.csv
+.idea/
+__pycache__/
+
